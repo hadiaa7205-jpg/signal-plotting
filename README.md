@@ -1,12 +1,12 @@
-# Signal Plotting Project
+ Signal Plotting Project
 
-## 📌 Purpose
+ Purpose
 This project demonstrates basic signal visualization using Python. It includes plotting sine and cosine waves to understand signal behavior in time domain.
 
-## 📊 Output Screenshot
+ Output Screenshot
 (Add your screenshot here)
 
-## 🛠️ Tools Used
+ Tools Used
 - Python
 - NumPy
 - Matplotlib
