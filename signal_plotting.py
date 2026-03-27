@@ -6,11 +6,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 Create time vector
-t = np.linspace(0, 1, 1000)  # 1 second, 1000 points
+t = np.linspace(0, 1, 1000) 
 
 Generate signals
-frequency1 = 5  # 5 Hz sine wave
-frequency2 = 10 # 10 Hz cosine wave
+frequency1 = 5  
+frequency2 = 10 
 
 sine_wave = np.sin(2 * np.pi * frequency1 * t)
 cosine_wave = np.cos(2 * np.pi * frequency2 * t)
